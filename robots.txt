@@ -20,4 +20,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://sixtyservice.com/sitemap.xml
+Sitemap: https://sixty-service-auto-repair.netlify.app/sitemap.xml

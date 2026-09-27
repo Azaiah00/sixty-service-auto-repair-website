@@ -43,3 +43,8 @@ Everything below must be confirmed with the owner before the site goes live.
 
 ## Domain
 - Proposed: sixtyservice.com (availability to check). Alternative: sixtyservicerva.com.
+
+
+## Live preview domain (updated 27 Sep 2026)
+The site is live at https://sixty-service-auto-repair.netlify.app/ and every canonical URL, Open Graph/Twitter tag, JSON-LD URL, sitemap.xml, robots.txt and llms.txt now points there, so text-message and social link previews show this address.
+When the owner's own domain (sixtyservice.com) is connected in Netlify, find-and-replace `sixty-service-auto-repair.netlify.app` with `sixtyservice.com` across the .html/.xml/.txt/.toml files, then redeploy.

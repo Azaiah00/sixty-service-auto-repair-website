@@ -6,7 +6,7 @@
 - Name: Sixty Service, Inc.
 - Address: 11013 Research Ct, Richmond, VA 23236, USA
 - Phone: (804) 379-9240 (call or text)
-- Website: https://sixtyservice.com/
+- Website: https://sixty-service-auto-repair.netlify.app/
 - Facebook: https://www.facebook.com/sixtyservice/
 - Directions: https://www.google.com/maps/dir/?api=1&destination=11013+Research+Ct%2C+Richmond%2C+VA+23236
 
@@ -25,14 +25,14 @@
 - Engine and throttle-body repair
 - General repair (leaks, cooling system, electrical)
 
-Details: https://sixtyservice.com/services.html
+Details: https://sixty-service-auto-repair.netlify.app/services.html
 
 ## Pricing
 Quoted per vehicle; there is no published price list. Call (804) 379-9240 with the vehicle year, make and model.
 
 ## Booking
 - Call (804) 379-9240 during shop hours
-- Request an appointment online: https://sixtyservice.com/appointment.html (the shop follows up to confirm a drop-off time)
+- Request an appointment online: https://sixty-service-auto-repair.netlify.app/appointment.html (the shop follows up to confirm a drop-off time)
 
 ## Ratings and recognition
 - Google: 4.9 out of 5 from 72 reviews
@@ -52,7 +52,7 @@ Richmond, North Chesterfield, Midlothian and Chesterfield County, Virginia.
 - Is it family owned? Yes, family owned and operated.
 
 ## Pages
-- Home: https://sixtyservice.com/index.html
-- Services: https://sixtyservice.com/services.html
-- About: https://sixtyservice.com/about.html
-- Request an appointment: https://sixtyservice.com/appointment.html
+- Home: https://sixty-service-auto-repair.netlify.app/index.html
+- Services: https://sixty-service-auto-repair.netlify.app/services.html
+- About: https://sixty-service-auto-repair.netlify.app/about.html
+- Request an appointment: https://sixty-service-auto-repair.netlify.app/appointment.html
